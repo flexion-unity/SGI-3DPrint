@@ -4,7 +4,11 @@
 
 3D-printed spare parts for the Silicon Graphics Indigo2
 
-- [Front Lid Clips](front-lid/)
-- [Front Cover Clips](front-cover/)
+### Front Cover Clips
+
+
+In progress.. come back later..
+
+
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

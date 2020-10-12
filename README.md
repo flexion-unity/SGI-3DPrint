@@ -7,7 +7,8 @@
 
 ## Indigo 2
 
-- [Front Lid Clips](Indigo2/)
+- [Front Lid Clips](Indigo2/front-lid/)
+- [Front Cover Clips](Indigo2/front-cover/)
 
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

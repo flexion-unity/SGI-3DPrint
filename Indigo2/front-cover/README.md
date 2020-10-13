@@ -6,6 +6,8 @@
 
 ### Front Cover Clip
 
+<img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/Indigo2/img/SGI-Indigo2-Front-Cover-Clip-3D.png" width="364">
+
 If the front cover clips of your Indigo2 are broken, you can print replacement clips using your 3D printer. There is one clip design that fits both sides, although I only tested the left one so far.
 
 Clip for left or right side: [SGI-Indigo2-Front-Cover-Clip.stl](SGI-Indigo2-Front-Cover-Clip.stl)

@@ -5,6 +5,10 @@
 3D-printed spare parts for SGI - Silicon Graphics Computer Systems
 
 
+## Iris Indigo
+
+- [Front Lid Clips](Indigo/front-lid/)
+
 ## Indigo 2
 
 - [Front Lid Clips](Indigo2/front-lid/)

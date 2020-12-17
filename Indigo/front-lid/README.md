@@ -1,7 +1,5 @@
 ## SGI - Iris Indigo
 
-<img src="https://github.com/flexion-unity/SGI-3DPrint/raw/main/img/SGI-Logo.png" width="180">
-
 3D-printed spare parts for the Silicon Graphics Iris Indigo
 
 ### Front Lid Door Clips

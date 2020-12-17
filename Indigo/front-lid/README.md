@@ -1,10 +1,10 @@
 ## SGI - Iris Indigo
 
+<img src="https://github.com/flexion-unity/SGI-3DPrint/raw/main/img/SGI-Logo.png" width="180">
+
 3D-printed spare parts for the Silicon Graphics Iris Indigo
 
 ### Front Lid Door Clips
-
-<img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/Indigo2/img/SGI-Indigo2-Clip-Left-3D.jpg" width="320">
 
 If the front lid clips are bent or broken, you can print replacement clips using your 3D printer.
 

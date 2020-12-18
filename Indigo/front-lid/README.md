@@ -8,9 +8,9 @@
 
 If the front lid clips are bent or broken, you can print replacement clips using your 3D printer.
 
-Clip: [SGI-Indigo-Door-Bottom-Clip.stl](SGI-Indigo-Door-Bottom-Clip.stl)
+Top Clip: [SGI-Indigo-Door-Top-Clip.stl](SGI-Indigo-Door-Top-Clip.stl)
+Bottom Clip: [SGI-Indigo-Door-Bottom-Clip.stl](SGI-Indigo-Door-Bottom-Clip.stl)
 
-The clip will fit exactly in the bottom corner of the door, but can also be used for the upper side of the door.
 
 3D print settings:
 

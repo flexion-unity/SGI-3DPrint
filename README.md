@@ -13,6 +13,6 @@
 
 - [Front Lid Clips](Indigo2/front-lid/)
 - [Front Cover Clips](Indigo2/front-cover/)
-
+- [Badge for IMPACT 10000](Indigo2/badge-10000/)
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

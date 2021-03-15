@@ -6,5 +6,6 @@
 
 - [Front Lid Clips](front-lid/)
 - [Front Cover Clips](front-cover/)
+- [Badge: 10000](badge-10000/)
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

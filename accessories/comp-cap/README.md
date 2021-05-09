@@ -18,7 +18,7 @@ This is a protector cap for SGI compression connectors, when not inserted in a m
 
 <img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/accessories/comp-cap/comp-cap-print.png" width="320">
 
-The compression connector cap on an Octane graphics board:
+The compression connector cap on Octane graphics boards:<br />
 <img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/accessories/comp-cap/comp-cap.png" width="320">
 
 

@@ -2,7 +2,7 @@
 
 <img src="https://github.com/flexion-unity/SGI-3DPrint/raw/main/img/SGI-Logo.png" width="180">
 
-3D-printed spare parts for the Silicon Graphics machines
+3D-printed spare parts for Silicon Graphics machines
 
 - [Compression Connector Cap](comp-cap/)
 

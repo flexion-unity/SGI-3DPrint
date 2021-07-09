@@ -8,9 +8,10 @@
 
 Contributed by cz7asm.
 
-Drive bay covers, one with SGI logo, and one without logo.
+Drive bay covers for Fuel, one with SGI logo, and one without logo.
 
 [SGI-bay_cover_logo.stl](SGI-bay_cover_logo.stl)
+
 [SGI-bay_cover_nologo.stl](SGI-bay_cover_nologo.stl)
 
 

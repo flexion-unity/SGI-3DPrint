@@ -15,9 +15,25 @@
 - [Front Cover Clips](Indigo2/front-cover/)
 - [Badge for IMPACT 10000](Indigo2/badge-10000/)
 
+## O2
+
+- [Pull mechanism](O2/pull-mechanism/)
+
+## Octane / Octane2
+
+- [Front Door Fix](Octane/front-door/)
+
+## Fuel
+
+- [Front Door Latch](Fuel/door-latch/)
+
 ## Accessories
 
 - [Compression Connector Cap](accessories/comp-cap/)
+- [Drive Bay Cover](accessories/drive-bay-cover/)
 
+
+
+Contributors: flexion, cz7asm
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

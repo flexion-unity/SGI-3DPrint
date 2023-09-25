@@ -10,11 +10,13 @@
 
 GFX option badge for Indigo2. To achieve the level of detail required, this one needs to be printed on a resin printer!
 
-Power: [Power.stl](Power.stl)
-Extreme: [Extreme.stl](Extreme.stl)
+- Power: [Power.stl](Power.stl)
+- Extreme: [Extreme.stl](Extreme.stl)
 
 The "Power" badge is best printed with black resin. Add a layer of silver paint.
 The "Extreme" badge can either be printed in yellow, or painted. Add black paint or use a black sharpie.
+
+Thanks to Xav101 for designing the "Power" badge and Jan-Jaap for measuring the "Extreme" badge!
 
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

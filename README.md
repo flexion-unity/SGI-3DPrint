@@ -14,6 +14,7 @@
 - [Front Lid Clips](Indigo2/front-lid/)
 - [Front Cover Clips](Indigo2/front-cover/)
 - [Badge for IMPACT 10000](Indigo2/badge-10000/)
+- [GFX Badge: Power Extreme](Indigo2/power-extreme/)
 
 ## O2
 

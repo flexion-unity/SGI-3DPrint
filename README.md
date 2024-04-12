@@ -23,6 +23,7 @@
 ## Octane / Octane2
 
 - [Front Door Fix](Octane/front-door/)
+- [XIO parts](Octane/XIO/)
 
 ## Fuel
 
@@ -35,6 +36,6 @@
 
 
 
-Contributors: flexion, cz7asm
+Contributors: flexion, cz7asm, jrha
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

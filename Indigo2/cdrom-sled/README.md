@@ -11,7 +11,7 @@ Contributed by stormy.
 [SGI Indigo2 CDROM sled.stl](SGI Indigo2 CDROM sled.stl)
 
 
-<img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/Indigo2/img/SGI-Indigo2-CDROM-Sled.png" width="775">
+<img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/Indigo2/img/SGI-Indigo2-CDROM-Sled.jpg" width="775">
 
 
 

@@ -14,7 +14,7 @@ Contributed by stormy.
 Eject rod for CD-ROM drives which don't have the special front bezel which allows for the eject button to work.
 
 
-<img src="./O2-eject-button.png" width="480">
+<img src="./O2-eject-button.jpg" width="480">
 
 
 

@@ -4,11 +4,15 @@
 
 3D-printed spare parts for the Silicon Graphics Indigo2
 
-- [Front Lid Clips](front-lid/)
-- [Front Cover Clips](front-cover/)
-- [Badge: 10000](badge-10000/)
-- [Extreme Power badge](power-extreme/)
-- [SiliconGraphics badge](sgi-badge/)
+### CD-ROM sled
+
+Contributed by stormy.
+
+[SGI Indigo2 CDROM sled.stl](SGI Indigo2 CDROM sled.stl)
+
+
+<img src="https://raw.githubusercontent.com/flexion-unity/SGI-3DPrint/main/Indigo2/img/SGI-Indigo2-CDROM-Sled.png" width="775">
+
 
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">

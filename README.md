@@ -16,10 +16,12 @@
 - [Badge for IMPACT 10000](Indigo2/badge-10000/)
 - [GFX Badge: Extreme Power](Indigo2/power-extreme/)
 - [SGI Badge](Indigo2/sgi-badge/)
+- [CDROM sled](Indigo2/cdrom-sled/)
 
 ## O2
 
 - [Pull mechanism](O2/pull-mechanism/)
+- [CDROM eject button rod](O2/cdrom-eject-button-rod/)
 
 ## Octane / Octane2
 
@@ -44,6 +46,8 @@
 
 
 
-Contributors: flexion, cz7asm, jrha
+Contributors: flexion, cz7asm, jrha, stormy.
+
+Pull requests with more STL parts are welcome.
 
 <hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">
